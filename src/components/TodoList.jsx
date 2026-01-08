@@ -2,7 +2,7 @@ import React from 'react';
 import Todoitems from './Todoitems';
 import { FaUpDown } from 'react-icons/fa6';
 
-const TodoList = ({ todos, onToggle, onDelete, onEdit }) => {
+const TodoList = ({ todos, onToggle, onDelete, onEdit,editingId,onUpdate }) => {
   return (
     <div className="todo-container">
       {todos.map((todo) => (
@@ -12,6 +12,8 @@ const TodoList = ({ todos, onToggle, onDelete, onEdit }) => {
           onToggle={onToggle}
           onDelete={onDelete}
           onEdit={onEdit}
+          editingId={editingId}
+          onUpdate={onUpdate}
           
         />
       ))}
