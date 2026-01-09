@@ -12,6 +12,46 @@ add, edit, delete, filter, and save data in the browser.
 
 
 
+## Built With
+
+  * [![React][React.js]][React-url]
+  * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+  * [![css3][css3.com]][css3-url]
+  * [![javascript][javascript.com]][javascript-url]
+
+  
+  [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+  [React-url]: https://reactjs.org/
+  [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+  [Bootstrap-url]: https://getbootstrap.com
+  [css3.com]:https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=CSS
+  [css3-url]:https://www.w3schools.com/css/
+  [javascript.com]:https://img.shields.io/badge/javascript-f1e05a?style=for-the-badge&logo=javascript&logoColor=black
+  [javascript-url]:https://www.w3schools.com/js/
+
+
+  ## Installation 
+   #### 1-Clone the project
+     ```bash
+    git clone https://github.com/zaineb-123/to_do_list_app.git
+     ```
+  #### 2-acces to the folder
+     ```bash
+    cd to_do_list_app.git
+     ```
+  
+  #### 3-Install NPM packages
+     ```bash
+     npm install
+     ```
+  #### 4-run the app
+     ```bash
+      npm run dev
+     ```
+
+
+
+
 
 ## Fonctionalities
 
@@ -51,22 +91,6 @@ add, edit, delete, filter, and save data in the browser.
   <img width="883" height="611" alt="Screen Shot 2026-01-09 at 9 39 15 AM" src="https://github.com/user-attachments/assets/0eb0633f-3e6f-45f2-b19a-137ce209bfc8" />
   </div>
   
-## Built With
-
-  * [![React][React.js]][React-url]
-  * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-  * [![css3][css3.com]][css3-url]
-  * [![javascript][javascript.com]][javascript-url]
-
-  
-  [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-  [React-url]: https://reactjs.org/
-  [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-  [Bootstrap-url]: https://getbootstrap.com
-  [css3.com]:https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=CSS
-  [css3-url]:https://www.w3schools.com/css/
-  [javascript.com]:https://img.shields.io/badge/javascript-f1e05a?style=for-the-badge&logo=javascript&logoColor=black
-  [javascript-url]:https://www.w3schools.com/js/
 
 
   ## Used Hooks
@@ -95,24 +119,7 @@ add, edit, delete, filter, and save data in the browser.
 </table>
 
 
-## Installation 
- #### 1-Clone the project
-   ```bash
-  git clone https://github.com/zaineb-123/to_do_list_app.git
-   ```
-#### 2-acces to the folder
-   ```bash
-  cd to_do_list_app.git
-   ```
 
-#### 3-Install NPM packages
-   ```bash
-   npm install
-   ```
-#### 4-run the app
-   ```bash
-    npm run dev
-   ```
 
 
 
