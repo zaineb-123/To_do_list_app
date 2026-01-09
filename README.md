@@ -69,7 +69,7 @@ add, edit, delete, filter, and save data in the browser.
   [javascript-url]:https://www.w3schools.com/js/
 
 
-  ## Hooks utilisés
+  ## Used Hooks
 
 
   <table align="center" width="100">
@@ -95,7 +95,7 @@ add, edit, delete, filter, and save data in the browser.
 </table>
 
 
-## Installation et lancement
+## Installation 
  #### 1-Clone the project
    ```bash
   git clone https://github.com/zaineb-123/to_do_list_app.git
